@@ -3,6 +3,10 @@ Speech-Saver
 
 A simplistic Text-to-Speech app for OS X
 
+Download
+--------
+Check the releases: https://github.com/SamusAranX/Speech-Saver/releases
+
 How to use
 ----------
 Start the .app (you may have to open it right-clicking->Open due to Gatekeeper), write/paste/open stuff and hit "Start speaking"(or press ⌘+↩). 
