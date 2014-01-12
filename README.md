@@ -19,7 +19,7 @@ Clicking "Save to File…" (or pressing ⌘+S) will open a save panel, asking yo
 
 Hitting "Voice Options…" (or ⌘+,) will open a drawer containing a few options to play with.
 
-__Note to people interested in the code__: Don't expect quality. This is the first 'real' app I wrote and I'm sure there'll be things in there that'll really grind your gears. You've been warned.
+__Note to people interested in the code__: Don't expect quality. This is the first 'real' app I wrote and I'm sure there'll be things in there that'll really grind your gears. You've been warned. (If you have constructive criticism for me, send it directly to @SamusAranX on Twitter or create a pull request or something. I'd appreciate it.)
 
 Why
 ---
