@@ -9,7 +9,7 @@ Check the releases: https://github.com/SamusAranX/Speech-Saver/releases
 
 How to use
 ----------
-Start the .app (you may have to open it right-clicking->Open due to Gatekeeper), write/paste/open stuff and hit "Start speaking"(or press ⌘+↩). 
+Start the .app (you may have to open it right-clicking->Open due to Gatekeeper), write/paste/open stuff and hit "Start speaking"(or press ⌘+↩). If you have text selected while doing this, Speech Saver will only speak the selected text.
 
 Clicking "Stop speaking" (or hitting aforementioned shortcut again) will, well, make the app stop speaking. 
 
@@ -19,7 +19,9 @@ Clicking "Save to File…" (or pressing ⌘+S) will open a save panel, asking yo
 
 Hitting "Voice Options…" (or ⌘+,) will open a drawer containing a few options to play with.
 
-__Note to people interested in the code__: Don't expect quality. This is the first 'real' app I wrote and I'm sure there'll be things in there that'll really grind your gears. You've been warned. (If you have constructive criticism for me, send it directly to @SamusAranX on Twitter or create a pull request or something. I'd appreciate it.)
+__Note to people interested in the code__: Don't expect quality. This is the first 'real' app I wrote and I'm sure there'll be things in there that'll really grind your gears. You've been warned. 
+
+(If you have constructive criticism for me, send it directly to @SamusAranX on Twitter or create a pull request or something. I'd appreciate it.)
 
 Why
 ---
