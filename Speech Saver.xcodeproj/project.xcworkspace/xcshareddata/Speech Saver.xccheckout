@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>10F08ECD-BB38-4FC5-89F9-CA8B507DC2D9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Speech Saver</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AF5736BF-4FB4-4D15-8B40-B0339CE7CB33</key>
+		<string>https://github.com/SamusAranX/Speech-Saver.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Speech Saver.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AF5736BF-4FB4-4D15-8B40-B0339CE7CB33</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SamusAranX/Speech-Saver.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AF5736BF-4FB4-4D15-8B40-B0339CE7CB33</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AF5736BF-4FB4-4D15-8B40-B0339CE7CB33</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Speech Saver</string>
+		</dict>
+	</array>
+</dict>
+</plist>
